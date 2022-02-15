@@ -4,7 +4,7 @@
 
 ◻️ `cd /etc/openvpn/` ;
 
-◻️ `nano ta.key` (copy ta.key from control.inova.pt) ;
+◻️ `nano ta.key` (copy ta.key from control.inova.pt) .
 
 ### After adding "client.conf" and "client2.conf"
 
