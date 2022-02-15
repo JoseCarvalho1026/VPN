@@ -2,7 +2,7 @@
 
 ◻️ `cd /etc/openvpn/` ;
 
-◻️ `nano client.conf`
+◻️ `nano client.conf` :
 
 ```
 ##############################################					
