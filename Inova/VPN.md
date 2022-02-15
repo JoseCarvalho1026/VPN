@@ -6,7 +6,7 @@
 
 ◻️ `openvpn --genkey --secret ta.key` ;
 
-◻️ `openssl dhparam -out dh2048.pem 2048` ;
+◻️ `openssl dhparam -out dh2048.pem 2048` .
 
 ### After adding "server_ss.conf" and "server_ra.conf"
 
@@ -20,4 +20,4 @@
 
 ◻️ `systemctl status --now openvpn@server_ss` ;
 
-◻️ `systemctl status openvpn@server_ra` ;
+◻️ `systemctl status openvpn@server_ra` .
