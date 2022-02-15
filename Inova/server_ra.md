@@ -2,7 +2,7 @@
 
 ◻️ `cd /etc/openvpn/` ;
 
-◻️ `nano server_ra.conf`
+◻️ `nano server_ra.conf` :
 ```
 #################################################					
 # Sample OpenVPN 2.0 config file for            #					
