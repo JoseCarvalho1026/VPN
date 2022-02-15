@@ -2,7 +2,7 @@
 
 ◻️ `cd /etc/openvpn/` ;
 
-◻️ `nano server_ss.conf` :
+◻️ `nano server_ra.conf` :
 
 ```
 #################################################		
